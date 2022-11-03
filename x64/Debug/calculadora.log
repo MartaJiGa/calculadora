@@ -1,0 +1,3 @@
+﻿  calculadora.cpp
+D:\Users\Yunma\Documents\Guardados_IDE_programacion\VisualStudio\calculadora\calculadora\calculadora.cpp(30,21): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+  calculadora.vcxproj -> D:\Users\Yunma\Documents\Guardados_IDE_programacion\VisualStudio\calculadora\x64\Debug\calculadora.exe
